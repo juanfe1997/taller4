@@ -1,0 +1,107 @@
+header{
+	background-color: #000000;
+	color:#fff;
+	font-family: arial;
+	padding: 20px;
+	
+}
+h1{
+	display: inline;
+	
+}
+h2{
+	margin: 0;
+	color: silver;
+	font-size: 15PX;
+}
+
+li{
+	background:black;
+	display: inline;
+	list-style: none;
+	padding: 10px;
+	text-decoration: none;
+	border-radius: 10px 5px;
+}
+a{
+	text-decoration: none;
+	color:silver;
+	font-family: arial;
+
+}
+ul{
+	display: inline;
+	float: right;
+	text-align: right;
+	margin-right:5px;
+}
+li:hover{
+	background: yellow;
+}
+ a:hover{
+	color: black;
+}
+p{
+margin: 0;
+text-align: center;
+font-size: 30px;
+font-weight: bold;
+color:blue;
+padding-top: 80px;
+}
+
+footer{
+	background-color: black;
+	display: inline;
+	border: 2px;
+	color:white;
+}
+
+.button:hover{
+	background: yellow;
+
+
+}
+.button{
+      background: green;
+      margin-left: 20px;
+      padding: 15px 20px;
+      display: inline;
+     text-align: center;
+     border-radius: 15px 10px;
+     color:red;
+	    
+	}
+	article{
+		text-align: center;
+		 margin-left: 18px;
+
+	}
+section{
+	background-image: url("salchicha.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+	padding-top: 0px;
+	padding-bottom: 30px;
+}
+.contenedor_titulo{
+	height: 520px;
+	display: table;
+}
+.titulo{
+	display: table-cell;
+	vertical-align: middle;
+	color: red;
+	font-size: 3rem;
+	display: block;
+	float: center;
+	
+}
+h4{
+	background-color: black;
+	display: block;
+	padding: 20px;
+	margin:0px;
+
+}

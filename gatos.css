@@ -1,0 +1,119 @@
+header{
+	background-color: #000000;
+	color:#fff;
+	font-family: arial;
+	padding: 20px;
+	
+}
+h1{
+	display: inline;
+	
+}
+h2{
+	margin: 0;
+	color: silver;
+	font-size: 15PX;
+}
+h3{
+	color:silver;
+	
+}
+li{
+	background:black;
+	display: inline;
+	list-style: none;
+	padding: 10px;
+	text-decoration: none;
+	border-radius: 10px 5px;
+}
+a{
+	text-decoration: none;
+	color:silver;
+	font-family: arial;
+
+}
+ul{
+	display: inline;
+	float: right;
+	text-align: right;
+	margin-right:5px;
+}
+li:hover{
+	background: yellow;
+}
+ a:hover{
+	color: black;
+}
+p{
+margin: 0;
+text-align: center;
+font-size: 60px;
+font-weight: bold;
+color: #02FFBC;
+}
+
+footer{
+	background-color: black;
+	display: inline;
+	border: 2px;
+	color:white;
+}
+
+.gato{
+		text-align: left;
+		 margin-top: 20px;
+		 display: inline;
+		 padding: 10px;
+		 margin-top: 0px;
+		 
+		 	
+}
+.contenedor_titulo{
+	height: 450px;
+	display: table;
+
+}
+.desc_gatos{
+	margin-top: 50px;
+}
+.titulo{
+	display: table-cell;
+	vertical-align: middle;
+	color: black;
+	text-align: left;
+	font-size: 3rem;
+	padding: 5px;
+	display: inline;
+	
+
+}
+h4{
+	background-color: black;
+	display: block;
+	padding: 30px;
+	margin:0px;
+
+}
+section{
+	margin-top: 50px;
+}
+img{
+	margin: 5px;
+
+}
+.tom{
+	margin: 20px;
+	color:darkblue;
+}
+.nyan{
+	margin: 60px;
+	color:darkblue;
+}
+.grumpy{
+	margin: 10px;
+	color:darkblue;
+}
+.maru{
+	margin: 40px;
+	color:darkblue;
+}
